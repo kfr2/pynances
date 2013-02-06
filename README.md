@@ -1,4 +1,7 @@
 # PyNances
+
+[![Build Status](https://travis-ci.org/kfr2/pynances.png)](https://travis-ci.org/kfr2/pynances)
+
 PyNances is a Flask-based[0] (mobile) web application for tracking and analyzing
 spending habits.
 
