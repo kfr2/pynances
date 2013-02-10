@@ -1,5 +1,5 @@
-flask
-flask-sqlalchemy
-flask-restless
-flask-heroku
-flask-babel
+flask==0.9
+flask-sqlalchemy==0.16
+flask-restless==0.9.3
+flask-heroku==0.1.4
+flask-babel==0.8
